@@ -3,7 +3,7 @@
 ## 
 ##
 
-## How to use-------------------------------------------------------------------------------------------
+## How to use------------------------------------------------------------------------------------------
 ## change your working directory to where the R functions are saved
 ## source("makeCacheMatrix.R")
 ## source("cachematrix.R")
